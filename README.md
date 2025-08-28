@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Data Analysis and Visualization Project (TESLA AND GAMESTOP REVENUES)</title>
-</head>
+
 <body>
 
-  <h1>📊 Data Analysis and Visualization Project</h1>
+  <h1>📊 Data Analysis and Visualization Project (TESLA AND GAMESTOP REVENUES)</h1>
 
   <h2>🧰 Libraries Used</h2>
   <ul>
